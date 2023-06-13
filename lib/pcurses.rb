@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-require_relative "pCurses/version"
+require_relative 'pCurses/version'
 
 module PCurses
   class Error < StandardError; end
